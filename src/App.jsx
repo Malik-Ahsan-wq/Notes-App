@@ -1,10 +1,12 @@
 import React from 'react'
 
   import NotesApp from './Components/NotesApp'
+
 const App = () => {
   return (
     <div>
       <NotesApp/>
+    
     </div>
   )
 }
